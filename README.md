@@ -41,8 +41,6 @@ https://youtu.be/GJmkul-7lOA
 ![image](https://github.com/scott2346413/Murphy_2346413_LightingAndSound_Repository/assets/147524027/7b392815-c608-4b56-97c9-b773a747e924)
 ![image](https://github.com/scott2346413/Murphy_2346413_LightingAndSound_Repository/assets/147524027/884ebcad-d31a-4fab-bc02-6aa5a0faaa9a)
 
-Include visuals of different lighting scenarios, sound effects, and interactive elements to provide a comprehensive overview.
-
 ## Installation
 
 Instructions on how to set up the project locally:
